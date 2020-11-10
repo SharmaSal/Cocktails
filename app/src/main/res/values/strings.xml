@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cocktails List</string>
+
+    <string name="cocktail_details_heading">Cocktail Details</string>
+    <string name="cocktail_name"> Name: </string>
+    <string name="cocktail_category"> Category: </string>
+    <string name="cocktail_instruction">Instruction: </string>
+    <string name="cocktail_ingredients"> Instruction: </string>
+
+    <string name="no_network_message">Unable to connect to network </string>
+    <string name="no_data_available">No cocktails available </string>
+
+</resources>
